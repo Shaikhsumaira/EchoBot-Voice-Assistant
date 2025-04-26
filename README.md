@@ -1,6 +1,4 @@
-Awesome! Here’s your final, personalized `README.md` for **EchoBot** with your name and field:
 
----
 
 # EchoBot  
 A smart virtual assistant that listens, understands, and performs tasks for you.
